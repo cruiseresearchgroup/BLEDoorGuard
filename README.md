@@ -11,7 +11,7 @@ This repository contains resources developed within the following paper:
 	  Person Identification Framework Using Bluetooth Signals for Door Access. 
 	  In IEEE Internet of Things Journal (pp. TBA). 
 
-You can find the [paper](the-link) in this repository. 
+You can find the [paper](https://github.com/cruiseresearchgroup/BLEDoorGuard/blob/master/paper/shao2018BLEDoorGuard.pdf) in this repository. 
 
 Alternative link: TBA
 
