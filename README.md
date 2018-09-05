@@ -7,7 +7,9 @@ an accuracy of 69% and 62% among groups of 6 and 10 people, respectively.
 
 This repository contains resources developed within the following paper:
 
-	  Shao, W., Nguyen, T., Qin, K., Youssef, M., and Salim, F. D. (2018), BLEDoorGuard: A Device-Free Person Identification Framework Using Bluetooth Signals for Door Access. In IEEE Internet of Things Journal (pp. TBA). 
+	  Shao, W., Nguyen, T., Qin, K., Youssef, M., and Salim, F. D. (2018). BLEDoorGuard: A Device-Free 
+	  Person Identification Framework Using Bluetooth Signals for Door Access. 
+	  In IEEE Internet of Things Journal (pp. TBA). 
 
 You can find the [paper](the-link) in this repository. 
 
